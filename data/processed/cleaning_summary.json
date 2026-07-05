@@ -1,0 +1,11 @@
+{
+  "total_units": 1567,
+  "pass_units": 1463,
+  "fail_units": 104,
+  "raw_sensors": 590,
+  "dropped_high_missing": 32,
+  "dropped_zero_variance": 116,
+  "cleaned_sensors": 442,
+  "missing_threshold_pct": 40.0,
+  "fail_rate_pct": 6.64
+}
